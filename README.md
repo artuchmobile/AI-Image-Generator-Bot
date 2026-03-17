@@ -1,1 +1,1 @@
-# AI-Image-Generator-Botabsdsa
+# AI-Image-Generator-Botaski
