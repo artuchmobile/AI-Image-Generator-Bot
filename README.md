@@ -1,1 +1,1 @@
-# AI-Image-Generator-Botassac
+# AI-Image-Generator-Botashow
