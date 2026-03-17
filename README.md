@@ -1,1 +1,1 @@
-# AI-Image-Generator-Botab bulb
+# AI-Image-Generator-Botab qrow
