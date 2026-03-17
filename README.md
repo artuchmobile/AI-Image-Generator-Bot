@@ -1,1 +1,1 @@
-# AI-Image-Generator-Bot stigma
+# AI-Image-Generator-Bot dragon
