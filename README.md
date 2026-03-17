@@ -1,1 +1,1 @@
-# AI-Image-Generator-Botab raw
+# AI-Image-Generator-Botab bulb
