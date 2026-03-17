@@ -1,1 +1,1 @@
-# AI-Image-Generator-Botgf
+# AI-Image-Generator-Botgc
