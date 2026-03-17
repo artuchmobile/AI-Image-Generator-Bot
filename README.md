@@ -1,1 +1,1 @@
-# AI-Image-Generator-Botab raus
+# AI-Image-Generator-Botab power
