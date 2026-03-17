@@ -1,1 +1,1 @@
-# AI-Image-Generator-Botaski
+# AI-Image-Generator-Botaskiy
