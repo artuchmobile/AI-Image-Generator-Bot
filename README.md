@@ -1,1 +1,1 @@
-# AI-Image-Generator-Botab qrow
+# AI-Image-Generator-Botab raus
