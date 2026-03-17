@@ -1,1 +1,1 @@
-# AI-Image-Generator-Botab power
+# AI-Image-Generator-Bot stigma
